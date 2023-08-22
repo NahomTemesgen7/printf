@@ -4,8 +4,8 @@
 /**
  * print_unsigned - Prints an unsigned num
  * @types: List a of arguments
- * @buffer: Buffer array to Handle Print
- * @flags:  Calculates active flags
+ * @buffer: Buffer array for printing
+ * @flags:  Compute active flags.
  * @width: get width
  * @precision: Precision Specification
  * @size: Size specifier
